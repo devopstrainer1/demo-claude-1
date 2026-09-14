@@ -5,6 +5,9 @@ A minimal kanban-style issue tracker built with Next.js. Issues are stored in me
 ## Setup
 
 ```bash
+
+curl -fsSL https://bun.com/install | bash
+
 bun install
 bun run dev
 ```
